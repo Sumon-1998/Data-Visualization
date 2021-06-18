@@ -1,2 +1,4 @@
-# Data-Visualization
-Data Visualization using popular python libraries like matplotlib, seaborn &amp; sklearn
+# Data Visualization with polular python library Matplotlib
+Matplotlib is a sponsered project of NumFOCUS.
+It is hosted on GitHub.
+
